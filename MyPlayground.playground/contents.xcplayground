@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Your order, please'/>
+        <page name='Remove consecutive duplicate words'/>
+        <page name='Find the first non-consecutive number  '/>
+        <page name='Isograms'/>
+        <page name='Draw stairs'/>
+        <page name='Asterisk it'/>
+        <page name='Mumbling'/>
+        <page name='Finish Guess the Number Game'/>
+        <page name='Method For Counting Total Occurence Of Specific Digits  '/>
+        <page name='Remove All The Marked Elements of a List  '/>
+    </pages>
+</playground>
